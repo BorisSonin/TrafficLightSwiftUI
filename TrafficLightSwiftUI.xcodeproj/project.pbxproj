@@ -11,6 +11,7 @@
 		C7FB3302296DC4CF0064B654 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7FB3301296DC4CF0064B654 /* ContentView.swift */; };
 		C7FB3304296DC4D00064B654 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7FB3303296DC4D00064B654 /* Assets.xcassets */; };
 		C7FB3307296DC4D00064B654 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7FB3306296DC4D00064B654 /* Preview Assets.xcassets */; };
+		C7FB330E296DC5600064B654 /* RedYellowGreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7FB330D296DC5600064B654 /* RedYellowGreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C7FB3301296DC4CF0064B654 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C7FB3303296DC4D00064B654 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7FB3306296DC4D00064B654 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C7FB330D296DC5600064B654 /* RedYellowGreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedYellowGreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C7FB32FF296DC4CF0064B654 /* TrafficLightSwiftUIApp.swift */,
 				C7FB3301296DC4CF0064B654 /* ContentView.swift */,
+				C7FB330D296DC5600064B654 /* RedYellowGreen.swift */,
 				C7FB3303296DC4D00064B654 /* Assets.xcassets */,
 				C7FB3305296DC4D00064B654 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				C7FB3302296DC4CF0064B654 /* ContentView.swift in Sources */,
 				C7FB3300296DC4CF0064B654 /* TrafficLightSwiftUIApp.swift in Sources */,
+				C7FB330E296DC5600064B654 /* RedYellowGreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
